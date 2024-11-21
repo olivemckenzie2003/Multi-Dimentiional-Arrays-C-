@@ -2,7 +2,7 @@
 
 
 1. 2D Arrays
-2. 
+
 Initialization
 
 int packages [] [4] {
