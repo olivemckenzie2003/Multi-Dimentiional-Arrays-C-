@@ -1,7 +1,7 @@
 # Multi-Dimentiional-Arrays-C-
 
 
-1. 2D Arrays
+1.     2D Arrays
 
 Initialization
 
@@ -59,7 +59,7 @@ for(size_t i{0} ; i < size(packages); ++ i){
     This makes the loop independent of hardcoding sizes.
     
 
-2. 3D Arrays
+2.    3D Arrays
    
 Initialization
 
@@ -124,7 +124,7 @@ int house_block1 [] [5] [3] {
     ...
 };
 
-    The left-most dimension is omitted. The compiler infers it from the initialization.
+The left-most dimension is omitted. The compiler infers it from the initialization.
 
 Automatic Zero-Filling
 
