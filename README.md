@@ -41,7 +41,7 @@ for(size_t i{0} ; i < 3; ++ i){
     
     size_t is used for indexing, which ensures non-negative integers.
 
-Using std::size
+Using size
 
 for(size_t i{0} ; i < size(packages); ++ i){
 
@@ -54,7 +54,7 @@ for(size_t i{0} ; i < size(packages); ++ i){
     cout << endl;
 }
 
-    std::size (C++17) determines the array dimensions dynamically.
+    size (C++17) determines the array dimensions dynamically.
     
     This makes the loop independent of hardcoding sizes.
     
@@ -155,7 +155,7 @@ Key Concepts
 
     Multi-dimensional arrays: Nested structures for organizing data.
     
-    Dynamic querying: Use std::size for better scalability.
+    Dynamic querying: Use size for better scalability.
     
     Zero-filling: The compiler auto-fills missing elements with 0.
     
