@@ -1,4 +1,4 @@
-# Multi-Dimentiional-Arrays-C-
+# Multi-Dimentional-Arrays-C-
 
 
 1.     2D Arrays
